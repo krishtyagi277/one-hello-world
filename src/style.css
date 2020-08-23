@@ -1,0 +1,29 @@
+body{
+    background-color:#333945;
+}
+
+h1{
+    color: #ffffff;
+
+}
+
+button{
+ 
+ color: #ffffff;
+ border: 0px;
+ outline: none;
+ cursor: pointer;
+ border-radius: 4px;
+ padding:  15px 30px;
+ margin: 10px 20px;
+
+}
+
+.green{
+    background-color: #43BE31;
+
+}
+
+.red{
+    background-color: red;
+}
