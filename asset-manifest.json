@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/one-hello-world/static/css/main.8f96f450.chunk.css",
+    "main.js": "/one-hello-world/static/js/main.bf569d4f.chunk.js",
+    "main.js.map": "/one-hello-world/static/js/main.bf569d4f.chunk.js.map",
+    "runtime-main.js": "/one-hello-world/static/js/runtime-main.8fc0d677.js",
+    "runtime-main.js.map": "/one-hello-world/static/js/runtime-main.8fc0d677.js.map",
+    "static/js/2.0f81383c.chunk.js": "/one-hello-world/static/js/2.0f81383c.chunk.js",
+    "static/js/2.0f81383c.chunk.js.map": "/one-hello-world/static/js/2.0f81383c.chunk.js.map",
+    "index.html": "/one-hello-world/index.html",
+    "precache-manifest.6e258b04d3d56f0dad1fcf3e96540b9e.js": "/one-hello-world/precache-manifest.6e258b04d3d56f0dad1fcf3e96540b9e.js",
+    "service-worker.js": "/one-hello-world/service-worker.js",
+    "static/css/main.8f96f450.chunk.css.map": "/one-hello-world/static/css/main.8f96f450.chunk.css.map",
+    "static/js/2.0f81383c.chunk.js.LICENSE.txt": "/one-hello-world/static/js/2.0f81383c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fc0d677.js",
+    "static/js/2.0f81383c.chunk.js",
+    "static/css/main.8f96f450.chunk.css",
+    "static/js/main.bf569d4f.chunk.js"
+  ]
+}
